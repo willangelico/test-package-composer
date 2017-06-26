@@ -1,6 +1,6 @@
 <?php
 
-namespace Will\SON
+namespace Will\SON;
 
 class HelloPackage
 {
